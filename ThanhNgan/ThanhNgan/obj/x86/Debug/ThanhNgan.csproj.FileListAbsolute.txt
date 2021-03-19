@@ -1,0 +1,8 @@
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\bin\Debug\ThanhNgan.exe
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\bin\Debug\ThanhNgan.pdb
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.csprojResolveAssemblyReference.cache
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.Form1.resources
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.Properties.Resources.resources
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.csproj.GenerateResource.Cache
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.exe
+D:\ThanhNgan-1754052042\ThanhNgan\ThanhNgan\obj\x86\Debug\ThanhNgan.pdb
